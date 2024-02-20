@@ -2,3 +2,4 @@
 2024-02-20 18:13:58.729 | INFO     | logging:callHandlers:1706 - Started server process [28692]
 2024-02-20 18:13:58.730 | INFO     | logging:callHandlers:1706 - Waiting for application startup.
 2024-02-20 18:13:58.730 | INFO     | logging:callHandlers:1706 - Application startup complete.
+2024-02-20 18:14:07.129 | INFO     | common.route_log:save_log:87 - 访问记录: {'url': '/api/say', 'method': 'GET', 'ip': '127.0.0.1', 'params': {'data': '22222222'}, 'spend_time': 0.005984783172607422, 'create_time': '2024-02-20 18:14:07'}.
