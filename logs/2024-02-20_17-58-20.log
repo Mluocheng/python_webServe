@@ -1,0 +1,2 @@
+2024-02-20 17:58:20.303 | INFO     | __main__:<module>:25 - 项目启动成功！！！
+2024-02-20 17:58:22.276 | INFO     | common.route_log:save_log:87 - 访问记录: {'url': '/api/say', 'method': 'GET', 'ip': '127.0.0.1', 'params': {}, 'spend_time': 0.012959480285644531, 'create_time': '2024-02-20 17:58:22'}.
