@@ -1,0 +1,16 @@
+2024-02-20 18:13:00.534 | INFO     | main:<module>:25 - 项目启动成功！！！
+2024-02-20 18:13:00.536 | INFO     | logging:callHandlers:1706 - Started server process [24860]
+2024-02-20 18:13:00.536 | INFO     | logging:callHandlers:1706 - Waiting for application startup.
+2024-02-20 18:13:00.537 | INFO     | logging:callHandlers:1706 - Application startup complete.
+2024-02-20 18:13:09.515 | INFO     | logging:callHandlers:1706 - Shutting down
+2024-02-20 18:13:09.625 | INFO     | logging:callHandlers:1706 - Finished server process [24860]
+2024-02-20 18:13:09.628 | ERROR    | logging:callHandlers:1706 - Traceback (most recent call last):
+  File "C:\Users\29294\AppData\Local\Programs\Python\Python311\Lib\site-packages\starlette\routing.py", line 743, in lifespan
+    await receive()
+  File "C:\Users\29294\AppData\Local\Programs\Python\Python311\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\29294\AppData\Local\Programs\Python\Python311\Lib\asyncio\queues.py", line 158, in get
+    await getter
+asyncio.exceptions.CancelledError
+

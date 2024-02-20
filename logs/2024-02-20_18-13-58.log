@@ -1,0 +1,4 @@
+2024-02-20 18:13:58.728 | INFO     | main:<module>:25 - 项目启动成功！！！
+2024-02-20 18:13:58.729 | INFO     | logging:callHandlers:1706 - Started server process [28692]
+2024-02-20 18:13:58.730 | INFO     | logging:callHandlers:1706 - Waiting for application startup.
+2024-02-20 18:13:58.730 | INFO     | logging:callHandlers:1706 - Application startup complete.
